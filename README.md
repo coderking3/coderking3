@@ -4,7 +4,7 @@
 
 <h4 align="center" >Welcome! I am a front-end engineer, weaving digital art between pixels and code.</h4>
 
-### ⚡️ A Few Quick Facts 
+### 👋 About Me
 <img align= "right" width= "250" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
 - 🔭 I’m currently working on front-end development.
