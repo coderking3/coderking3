@@ -15,14 +15,14 @@
 
 ### 💻 Tech Stack
 
-![Tech stack](https://skillicons.dev/icons?i=html,css,js,typescript,vue,react,nodejs,mysql,vscode,powershell,ps,git,github,vercel,pnpm,vite)
+![Tech stack](https://skillicons.dev/icons?i=html,css,js,ts,vue,react,nuxtjs,nextjs,tauri,electron,vite,webpack,git,pnpm,yarn,nodejs,mysql,vscode,notion,powershell,vercel)
 
 ### 🚀 Contribute
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://ghfast.top/https://raw.githubusercontent.com/coderking3/coderking3/output/contribution-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://ghfast.top/https://raw.githubusercontent.com/coderking3/coderking3/output/contribution-snake.svg" />
-  <img align="center" alt="github-snake" src="https://ghfast.top/https://raw.githubusercontent.com/coderking3/coderking3/output/contribution-snake.svg" />
+  <img alt="github-snake" src="https://ghfast.top/https://raw.githubusercontent.com/coderking3/coderking3/output/contribution-snake.svg" />
 </picture>
 
 ### 📈 Stats
