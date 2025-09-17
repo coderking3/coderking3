@@ -5,7 +5,7 @@
 <h4 align="center" >Welcome! I am a front-end engineer, weaving digital art between pixels and code.</h4>
 
 ### ⚡️ A Few Quick Facts 
-<img align= "right" id="user-content-mycat" width= "250" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
+<img align= "right" width= "250" style="padding-right: 50px;" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
 - 🔭 I’m currently working on front-end development.
 - 🌱 I’m currently learning everything.🤣
