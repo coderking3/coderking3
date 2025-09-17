@@ -1,10 +1,6 @@
-<h1 align="center">
-  <img 
-    src="https://article.biliimg.com/bfs/article/821e8b784117cda39eef369b948b3d13627872080.png" 
-    style="height: 24px; vertical-align: bottom;" 
-  />
-  Hi, I'm king3!  
-</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hi,%20I'm%20king3!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 
 <h4 align="center" >Welcome! I am a front-end engineer, weaving digital art between pixels and code.</h4>
 
