@@ -19,8 +19,7 @@
 
 ### 💻 Tech Stack
 
-![Tech stack](https://skillicons.dev/icons?i=html,css,js,typescript,vue,react,nodejs,mysql)
-![Tools I use](https://skillicons.dev/icons?i=vscode,powershell,ps,git,github,vercel,pnpm,vite)
+![Tech stack](https://skillicons.dev/icons?i=html,css,js,typescript,vue,react,nodejs,mysql,vscode,powershell,ps,git,github,vercel,pnpm,vite)
 
 ### 🚀 Contribute
 
