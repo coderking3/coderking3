@@ -13,9 +13,9 @@
 - 📫 To reach me: `w2196592083@gmail.com`
 - 🤪 Fun Fact: Love gaming 🎮, music 🎵 and travel ✈️
 
-### 💻 Tech Stack
+### 💻 Tech Skills
 
-![Tech stack](https://skillicons.dev/icons?i=html,css,js,ts,vue,react,nuxtjs,nextjs,tauri,electron,vite,webpack,git,pnpm,yarn,nodejs,mysql,vscode,notion,powershell,vercel)
+![Tech stack](https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nextjs,nuxtjs,nodejs,vite,webpack,rollup,babel,git,github,pnpm,yarn,sass,less,jest,vitest,tauri,electron,mysql,vscode,notion,vercel,ps,powershell,md)
 
 ### 🚀 Contribute
 
