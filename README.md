@@ -13,7 +13,7 @@
 - 📫 To reach me: `w2196592083@gmail.com`
 - 🤪 Fun Fact: Love gaming 🎮, music 🎵 and travel ✈️
 
-### 💻 Tech Skills
+### 💻 Skills
 
 ![Tech stack](https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nextjs,nuxtjs,nodejs,vite,webpack,rollup,babel,git,github,pnpm,yarn,sass,less,jest,vitest,tauri,electron,mysql,vscode,notion,vercel,ps,powershell,md)
 
