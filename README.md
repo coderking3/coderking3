@@ -15,7 +15,7 @@
 
 ### 💻 Skills
 
-![Tech stack](https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nextjs,nuxtjs,nodejs,vite,webpack,rollup,babel,git,github,pnpm,yarn,sass,less,jest,vitest,tauri,electron,mysql,vscode,notion,vercel,ps,powershell,md)
+![Tech stack](https://skillicons.dev/icons?i=vue,react,ts,nodejs,express,nestjs,mongodb,mysql,nextjs,nuxtjs,tauri,electron,vercel,vscode,powershell)
 
 ### 🚀 Contribute
 
