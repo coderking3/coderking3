@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hi,%20I'm%20king3!🕹️&animation=fadeIn&type=venom&color=gradient&fontColor=1f2328&height=100"/>
+  <picture align="center">
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?text=Hi,%20I'm%20king3!🕹️&animation=fadeIn&type=venom&color=gradient&fontColor=#f6f8fa&height=100" />
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?text=Hi,%20I'm%20king3!🕹️&animation=fadeIn&type=venom&color=gradient&fontColor=1f2328&height=100" />
+    <img alt="github-snake" src="https://capsule-render.vercel.app/api?text=Hi,%20I'm%20king3!🕹️&animation=fadeIn&type=venom&color=gradient&fontColor=1f2328&height=100" />
+  </picture>
 </p>
 
 <h4 align="center" >Welcome! I am a front-end engineer, weaving digital art between pixels and code.</h4>
