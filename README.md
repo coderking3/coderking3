@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on front-end development.
 - 🌱 I’m currently learning everything.🤣
 - 💬 Ask me about JavaScript, Vue and React.
-- 📫 To reach me: `w2196592083@gmail.com`
+- 📫 To reach me: `king3.wm@gmail.com`
 - 🤪 Fun Fact: Love gaming 🎮, music 🎵 and travel ✈️
 
 ### 💻 Skills
